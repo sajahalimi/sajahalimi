@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sajahalimi
 - 👀 I’m interested in engineering
 - 🌱 I’m currently learning diferent programs
-- 💞️ I’m looking to collaborate on real tie data
+- 💞️ I’m looking to collaborate on real time data
 - 📫 How to reach me to sahit.h9060@gmail.com, thank you
 
 <!---
